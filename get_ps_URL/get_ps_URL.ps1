@@ -2,6 +2,6 @@
 
 echo "Sterat"
 
-iwr https://takatestapp.herokuapp.com/ -OutFile out.html
+iwr https://add_url/ -OutFile out.html
 
 echo "End"
