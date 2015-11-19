@@ -2,6 +2,6 @@
 
 echo "Sterat"
 
-iwr https://add_url/ -OutFile out.html
+iwr https://takatestapp.herokuapp.com/ -OutFile D:\_GitHUB\PowerShellScript\get_ps_URL\out.html
 
 echo "End"

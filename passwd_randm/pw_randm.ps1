@@ -1,0 +1,1 @@
+﻿Add-type -AssemblyName System.Web;[System.Web.Security.Membership]::GeneratePassword(11,2) | %{$_ -replace "[^a-z0-9]",""}
